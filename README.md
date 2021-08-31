@@ -7,7 +7,7 @@ Advance Java &<br>
 Python
 
 - 📫 How to reach me: ...
-Personal Portfolio : https://abhishekm.tech/<br>
+Personal Portfolio : https://abhishekmankuskar.github.io/Portfolio/<br>
 Linkedln : https://www.linkedin.com/in/abhishek-mankuskar-03790018b/
 <!--
 **abhishekmankuskar/abhishekmankuskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
